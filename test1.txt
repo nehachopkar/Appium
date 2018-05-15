@@ -1,0 +1,25 @@
+ Volume in drive D has no label.
+ Volume Serial Number is BE97-D55D
+
+ Directory of D:\SoftwareTesting\Git
+
+05/15/2018  04:50 PM    <DIR>          .
+05/15/2018  04:50 PM    <DIR>          ..
+05/15/2018  03:30 PM    <DIR>          bin
+05/15/2018  03:31 PM    <DIR>          cmd
+05/15/2018  03:31 PM    <DIR>          etc
+04/03/2018  11:29 AM           148,248 git-bash.exe
+04/03/2018  11:29 AM           147,224 git-cmd.exe
+03/19/2018  10:17 AM            18,765 LICENSE.txt
+05/15/2018  03:30 PM    <DIR>          mingw64
+05/15/2018  04:41 PM    <DIR>          MyProject
+03/19/2018  10:17 AM             1,924 post-install.bat
+04/03/2018  11:38 AM           128,430 ReleaseNotes.html
+05/15/2018  04:50 PM                 0 test1.txt
+05/15/2018  03:31 PM    <DIR>          tmp
+05/15/2018  03:31 PM         1,111,112 unins000.dat
+05/15/2018  03:29 PM         1,289,880 unins000.exe
+05/15/2018  03:31 PM            22,795 unins000.msg
+05/15/2018  03:31 PM    <DIR>          usr
+               9 File(s)      2,868,378 bytes
+               9 Dir(s)  250,607,210,496 bytes free
